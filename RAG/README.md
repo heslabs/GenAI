@@ -22,13 +22,12 @@ Generative AI （GenAI） 學習、構建和共用 GenAI 代理的綜合資源�
 16. Sophisticated Controllable Agent for Complex RAG Tasks 
 
 ---
- 
-
 <img src="https://github.com/user-attachments/assets/707a7bd4-36dd-4f72-89d9-9dc933448f1e" width="800">
 
 ---
 ### Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems
 https://github.com/NirDiamant/RAG_Techniques
 
+---
 ### The Rise and Potential of Large Language Model Based Agents: A Survey
 https://github.com/WooooDyy/LLM-Agent-Paper-List?tab=readme-ov-file&fbclid=IwY2xjawF3CfpleHRuA2FlbQIxMAABHWkJXAVn3YsAPGjxXUgv9FHq9mS_WbM8FdTne145FELotaFyJvkVty86ug_aem_DFhKHSZZJLwamUooSnfouA
