@@ -1,6 +1,7 @@
 # Advanced RAG Techniques
 
 https://www.facebook.com/share/p/nuW2NVKDBUDhY2UN/ 
+
 目前的Agent 整理大全，想做Agents的這篇很值得看
 Generative AI （GenAI） 學習、構建和共用 GenAI 代理的綜合資源，從簡單的對話機器人到複雜的多代理系統。舉例很多Agent程式如何撰寫:
 1. Simple Conversational Agent
@@ -21,7 +22,9 @@ Generative AI （GenAI） 學習、構建和共用 GenAI 代理的綜合資源�
 16. Sophisticated Controllable Agent for Complex RAG Tasks 
 
 ---
-<img src="github.com/user-attachments/assets/7960dda5-58d5-4b9c-a164-7d5f257a443f" width="800">
+ 
+
+<img src="https://github.com/user-attachments/assets/707a7bd4-36dd-4f72-89d9-9dc933448f1e" width="800">
 
 ---
 ### Advanced RAG Techniques: Elevating Your Retrieval-Augmented Generation Systems
