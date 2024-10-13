@@ -4,6 +4,7 @@
 
 EfficientML.ai Lecture 7 - Neural Architecture Search Part I (MIT 6.5940, Fall 2024, Zoom recording)
   * https://www.youtube.com/watch?v=_Pflki9XOXE
+
 EfficientML.ai Lecture 8 - Neural Architecture Search Part II (MIT 6.5940, Fall 2024, Zoom recording)
   * https://www.youtube.com/watch?v=L07-eVmSVGY
       
