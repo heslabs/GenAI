@@ -1,7 +1,7 @@
 # GenerativeAI
 
 ---
-#### Anthropic總結智慧體年度經驗：最成功的≠最複雜的 (2024.12)
+#### Anthropic 總結智慧體年度經驗：最成功的≠最複雜的 (2024.12)
 * https://bangqu.com/A8246K.html?fbclid=IwY2xjawHhh71leHRuA2FlbQIxMQABHYpRXYM1oGgwEySE2aV68ztqWvSsQZU8Mz-4McD4-s1dV7HuGTyptHPffQ_aem_XThyMW1qdMbt_uibKWwlTw
 
 * 我們正在見證一個重要的轉折點：智慧體正在將 AI 的能力從「能說會道」轉變為「能做會幹」。
