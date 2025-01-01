@@ -22,3 +22,23 @@ Anthropic 將兩者統稱為智慧系統，但對工作流和智慧體做出了�
 ---
 #### Building effective agents (2024.10)
 * https://www.anthropic.com/research/building-effective-agents
+
+---
+#### 谷歌CEO：Gemini將成公司2025年「最大重點」 (2024.12)
+* https://bangqu.com/3d3r15.html?fbclid=IwY2xjawHhjjRleHRuA2FlbQIxMQABHWCUlv7MocvlHoKGOZd9v66F1f9sAiIfoD32q9X6UN8m1wV4TQ44auAXlA_aem_n-G4a2G5PjsM6uTdUjHhdw
+* 目前，Gemini大模型正在為谷歌所有AI產品提供支援，包括受開發者歡迎的輕量級模型Gemini Flash。
+
+---
+#### Edward Chang
+ 
+🎉 𝐒𝐩𝐞𝐜𝐢𝐚𝐥 𝐀𝐧𝐧𝐨𝐮𝐧𝐜𝐞𝐦𝐞𝐧𝐭 🎉
+​
+To support broader access and benefit students worldwide, I am making my book available for 𝗳𝗿𝗲𝗲 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱 𝗶𝗻 𝗣𝗗𝗙 𝗳𝗼𝗿𝗺𝗮𝘁. While this decision stems from a desire to promote knowledge-sharing, it also addresses a concerning reality: the Kindle version of my book was recently pirated, converted into a PDF, and distributed without my authorization. Rather than allowing unauthorized copies to circulate, I have decided to release an official, high-quality version for free.
+​
+For those who prefer a physical copy, a $16 paperback edition (printing cost only) is available on Amazon.
+​
+* PDF download [[link]](https://www.researchgate.net/publication/387541177_LLM_Collaborative_Intelligence_The_Path_to_Artificial_General_Intelligence)
+* Amazon paperback: https://www.amazon.com/dp/B0DLBDDG24​
+
+Your support in spreading this official release is greatly appreciated. Let's ensure that accurate and accessible resources reach everyone who can benefit!
+Happy 2025!
