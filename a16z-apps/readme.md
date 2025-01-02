@@ -18,7 +18,7 @@ https://www.bnext.com.tw/article/81871/a16z-ai-tools-2024
 3. ChatGPT - 應該不需要解釋。但建議可以嘗試「進階語音模式」與 AI 對話
 
 ---
-### 完成工作 (Get Work Done)
+### 效率工具 (Get Work Done)
 1. Granola - 聆聽會議並將轉錄內容整理成筆記的 AI 筆記工具
 2. Wispr Flow - 將語音即時轉換為文字，適用於任何應用程序的語音轉文字工具
 3. Gamma - 用 AI 製作演示文稿、文檔和網站來呈現你的想法
@@ -28,7 +28,7 @@ https://www.bnext.com.tw/article/81871/a16z-ai-tools-2024
 7. Lindy - 構建 AI 助手來自動化工作流程
 
 ---
-### 面向視聽眾的內容建立 (Build An Audience)
+### 內容創作工具 (Build An Audience)
 1. Delphi - 用於與觀眾互動的 AI 文本、語音和影片虛擬人物
 2. HeyGen - 使用虛擬人物擴展內容製作或翻譯影片
 3. Argil - 用於社交媒體影片的 AI 虛擬人物
@@ -37,14 +37,14 @@ https://www.bnext.com.tw/article/81871/a16z-ai-tools-2024
 6. Captions - 提供 AI 支援的影片和編輯功能（例如自動字幕、矯正視線對焦）
 
 ---
-### 打造產品 (Build A Product)
+### 產品開發工具 (Build A Product)
 1. Cursor - 了解你程式碼的 AI 程式碼編輯器
 2. Replit - 利用自然語言構建應用程序和網站的 AI 助手
 3. Anychat - 在一個地方使用任何 AI 模型
 4. Codeium - 提供程式碼自動補全的 AI 工具
 
 ---
-### 激發創意 (Get Creative)
+### 創意工具 (Get Creative)
 1. Eleven Labs - 提供擬真的 AI 聲音
 2. Suno, Udio - 根據文本生成音樂或歌曲
 3. Midjourney, Ideogram, Playground - AI 圖像生成工具
@@ -53,7 +53,7 @@ https://www.bnext.com.tw/article/81871/a16z-ai-tools-2024
 6. Photoroom - 專為產品照片和視覺內容設計的 AI 圖像編輯工具
 
 ---
-### 學習 / 成長助手 (Learn or Grow)
+### 學學習與成長工具 (Learn or Grow)
 1. Rosebud - 利用 AI 獲取洞察的互動日記
 2. Good Inside - 提供個性化支持的育兒助手
 3. Ada Health - 提供 AI 驅動的醫療症狀評估
@@ -62,7 +62,7 @@ https://www.bnext.com.tw/article/81871/a16z-ai-tools-2024
 6. Particle - 將多篇文章結合成簡化故事的 AI 新聞應用
 
 ---
-### 娛樂型 (Have Fun)
+### 娛樂工具 (Have Fun)
 1. Remix - 用於創作和分享 AI 圖像和影片的社交應用
 2. Meta Imagine - 在 Meta 應用中製作自己、家人和朋友的 AI 圖像
 3. Grok - 使用 xAI 提供的聊天機器人
