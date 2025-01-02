@@ -3,7 +3,7 @@
 
 ---
 #### Trends in Generative AI 2023.10 
-* [[Jon Cherry Blog]](https://cherryflava.com/trends-in-generative-ai/)
+* Top 100 Gen AI Apps — 3rd edition [[AndreessenHorowitz]](https://a16z.com/100-gen-ai-apps-3/)
 
 <img src="https://github.com/user-attachments/assets/52d17ca3-12c7-4374-8a27-2b7d920631b7" width=1000>
 
