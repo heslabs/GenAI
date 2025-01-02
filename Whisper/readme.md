@@ -1,14 +1,16 @@
 # OpenAI Whisper
 
-線上免費用 OpenAI Whisper 幫影片上字幕 🚀 而且不限次數！
-想用 AI 快速製作多部影片字幕，但經費有點拮据，電腦又跑不動大模型？今天要來介紹架設在 Hugging Face 上的 Whisper Web，能完全免費，且不限次數執行語音轉文字(Speech to Text, STT)，用的模型還是準確率超高的 OpenAI Whisper🔥
+* 線上免費用 OpenAI Whisper 幫影片上字幕 🚀 而且不限次數！
+* 想用 AI 快速製作多部影片字幕，但經費有點拮据，電腦又跑不動大模型？
+* 架設在 Hugging Face 上的 Whisper Web，能完全免費，且不限次數執行語音轉文字(Speech to Text, STT)，用的模型還是準確率超高的 OpenAI Whisper🔥
 
+---
 💫 Whisper Web
-Hugging Face 連結🔗 
-https://huggingface.co/spaces/Xenova/whisper-web  
+Hugging Face 連結🔗 https://huggingface.co/spaces/Xenova/whisper-web  
 
 提供多種 Whisper 模型，包含從 whisper-tiny.en 到 whisper-medium.en 系列模型，還有 distil-medium.en、distil-large-v2。
 
+---
 💡 打開網站直接用
 1. 上傳影片音訊、貼上影片 YouTube 網址或直接錄音
 2. 點擊齒輪圖示進入 Settings
