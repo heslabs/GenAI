@@ -1,5 +1,12 @@
 # GenerativeAI
 
+
+---
+#### Trends in Generative AI 2023.10 
+[[link]](https://cherryflava.com/trends-in-generative-ai/)
+
+<img src="https://github.com/user-attachments/assets/52d17ca3-12c7-4374-8a27-2b7d920631b7" width=800)
+
 ---
 #### Anthropic 總結智慧體年度經驗：最成功的≠最複雜的 (2024.12)
 * https://bangqu.com/A8246K.html?fbclid=IwY2xjawHhh71leHRuA2FlbQIxMQABHYpRXYM1oGgwEySE2aV68ztqWvSsQZU8Mz-4McD4-s1dV7HuGTyptHPffQ_aem_XThyMW1qdMbt_uibKWwlTw
