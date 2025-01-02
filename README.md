@@ -5,7 +5,11 @@
 #### Trends in Generative AI 2023.10 
 * Top 100 Gen AI Apps — 3rd edition [[AndreessenHorowitz]](https://a16z.com/100-gen-ai-apps-3/)
 
+---
 <img src="https://github.com/user-attachments/assets/52d17ca3-12c7-4374-8a27-2b7d920631b7" width=1000>
+
+---
+<img src="https://github.com/user-attachments/assets/0948af22-355a-42d7-99eb-375ee915c61a" width=1000>
 
 ---
 #### Anthropic 總結智慧體年度經驗：最成功的≠最複雜的 (2024.12)
