@@ -12,7 +12,7 @@ Hugging Face 連結🔗 https://huggingface.co/spaces/Xenova/whisper-web
 
 ---
 <br/>
-<img src="https://github.com/user-attachments/assets/1f2035ca-2f29-42a4-a4eb-1eb517eb0a40" width=650>
+<img src="https://github.com/user-attachments/assets/1f2035ca-2f29-42a4-a4eb-1eb517eb0a40" width=550>
 <br/>
 
 ---
