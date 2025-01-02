@@ -11,6 +11,11 @@ Hugging Face 連結🔗 https://huggingface.co/spaces/Xenova/whisper-web
 提供多種 Whisper 模型，包含從 whisper-tiny.en 到 whisper-medium.en 系列模型，還有 distil-medium.en、distil-large-v2。
 
 ---
+<br/>
+<img src="https://github.com/user-attachments/assets/1f2035ca-2f29-42a4-a4eb-1eb517eb0a40" width=650>
+<br/>
+
+---
 💡 打開網站直接用
 1. 上傳影片音訊、貼上影片 YouTube 網址或直接錄音
 2. 點擊齒輪圖示進入 Settings
@@ -21,3 +26,5 @@ Hugging Face 連結🔗 https://huggingface.co/spaces/Xenova/whisper-web
 7. 小編實測後，覺得準確率不錯，中文夾雜英文也能精確轉換！
 🎯 因為是在 Hugging Face 上與別人共用運算資源，處理較長音檔時要稍微耐心等待。但想想這麼強大的功能完全免費，等等也值得
 👋 分享給同樣為上字幕感到困擾的朋友吧
+
+
