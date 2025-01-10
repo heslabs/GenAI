@@ -55,6 +55,4 @@ Arm Neoverse represents a significant advancement in ARM's offerings for infrast
 
 * Applications of Arm Neoverse V-Series?
 * Efficiency of Neoverse N-Series?
-* Security features in Neoverse E-Series?
-
-* 
+* Security features in Neoverse E-Series? 
