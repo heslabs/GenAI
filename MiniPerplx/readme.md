@@ -6,7 +6,7 @@
 * Github Repo: https://github.com/zaidmukaddam/miniperplx
 
 ---
-## MiniPerplx 開源專案 提供簡潔、快速且準確的搜尋體驗，他也支援多種AI模型，包括GPT-4o mini、Claude 3.5 Sonnet和o1-mini
+## MiniPerplx 開源專案 提供簡潔、快速且準確的搜尋體驗，支援多種AI模型，包括GPT-4o mini、Claude 3.5 Sonnet和o1-mini
 
 * 使用Anthropic的模型進行AI驅動搜尋
 * 使用Tavily的API進行網路搜尋
