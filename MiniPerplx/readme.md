@@ -1,8 +1,9 @@
 # MiniPerplx
 
+**A minimalistic AI-powered search engine that helps you find information on the internet.**
 
-* App 首頁: https://mplx.run
-* Git Repo: https://github.com/zaidmukaddam/miniperplx
+* App website: https://mplx.run
+* Github Repo: https://github.com/zaidmukaddam/miniperplx
 
 ---
 ## MiniPerplx 開源專案 提供簡潔、快速且準確的搜尋體驗，他也支援多種AI模型，包括GPT-4o mini、Claude 3.5 Sonnet和o1-mini
